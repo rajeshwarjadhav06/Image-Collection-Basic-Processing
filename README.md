@@ -59,8 +59,14 @@ This project demonstrates the workflow of collecting, cleaning, and processing i
 
 ---
 
-## 👨‍💻 Author
-Rajeshwar Jadhav
+# 👨‍💻 Author
+
+**Rajeshwar Jadhav**  
+  
+
+📧 Email: rajeshwarjadhav06@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rajeshwar-jadhav-54241625a/)  
+💻 [GitHub](https://github.com/rajeshwarjadhav06 )
 
 ## ⭐ Support
 If you found this project useful, give it a ⭐ on GitHub.
